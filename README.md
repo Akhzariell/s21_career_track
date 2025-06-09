@@ -1,43 +1,46 @@
 # Career Track
 
-This folder contains assignments from the mandatory educational program at [School 21](https://21-school.ru/we).
+Эта папка содержит задания из обязательной программы обучения в [School 21](https://21-school.ru/we).
 
-### Goal of this track:
-
----
-
-The **Career Track** aims to help me better understand myself as a programmer, determine my direction in IT, and eventually find a suitable job offer in a company that aligns with my expectations. This will also allow me to work and grow comfortably and productively.
-
-All of the above is achieved through technical assignments. These assignments include modern educational materials that help build an effective learning model. This is done by analyzing market demands, personal capabilities, soft skills, and hard skills. As a result, I can address my weaknesses and improve underdeveloped skills to become competitive in the job market.
-
-### Structure of this track:
+### Цель данной ветки:
 
 ---
 
-This is achieved through nine assignments, located in this directory and named as *CT* folders, ranging from 00 to 08 (*a total of 9 projects*).
+**Career track** направлен на то, чтобы я смог узнать себя лучше как программиста, определиться с выбором направления в IT и в дальнейшем подобрать себе подходящий оффер в компании, которая будет соответствовать моим ожиданиям. Также это позволит мне максимально комфортно и продуктивно работать и развиваться.
 
-Each of these folders contains:
+Все выше перечисленное достигается за счет технических заданий. Они содержат современные обучающие материалы, которые помогают выстроить эффективную модель обучения. Это осуществляется путем анализа потребностей рынка, собственных возможностей, soft skills и hard skills. Таким образом, я смогу закрыть свои недостатки и развить отстающие навыки, чтобы быть конкурентоспособным на рынке труда.
 
-* A `src` folder (*project source files*);
-* `TASK_RUS.md` and `TASK.md` files (*Russian and English versions of the assignment*);
-* A screenshot of the review results from peers (*Peer-to-Peer methodology*).
-
-Each project includes its own technical specification (*TS*) and overall goal, which contribute to achieving the set objectives. Details of the TS are outlined in the `README_RUS.md` and `README.md` files, where educational materials and step-by-step tasks for implementation are described. Some assignments are bonus and optional.
-
-### Project details:
+### Структура данной ветки:
 
 ---
 
-Below is a table with brief descriptions of each assignment and my comments on them.
+Все это достигается за счет девяти заданий, которые идут в данной директории и проименованы как папки *CT* с градацией от 00 до 08 ( *то есть суммарно 9 проектов* ).
 
-| Assignment:      | Goal:                                                                                                                                                         | Comment:                                                                                                                                                                                                      |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CT00-1** | Career Wheel: Conduct an initial self-analysis and market research, outline job expectations, and set selection criteria, as well as goals for 2 and 5 years. | I didn’t expect this assignment to be challenging, but it turned out that I didn’t know what I wanted. This project helped me create a preliminary image of my future job and outline goals for the future. |
-| **CT01-1** | Market analysis and job search for companies that match my expectations. SWOT analysis and table completion from CT00-1.                                      | This assignment was easier than the first one. I took a more detailed look at the job market, which allowed me to create a roadmap of paths toward my goal in School 21.                                      |
-| **CT02-1** | (*Description will be added later*.)                                                                                                                        | *(Comment will be added after completing the assignment.)*                                                                                                                                                   |
-| **CT03-1** | *(Description will be added later.)*                                                                                                                         | *(Comment will be added after completing the assignment.)*                                                                                                                                                   |
-| **CT04-1** | *(Description will be added later.)*                                                                                                                         | *(Comment will be added after completing the assignment.)*                                                                                                                                                   |
-| **CT05-1** | *(Description will be added later.)*                                                                                                                         | *(Comment will be added after completing the assignment.)*                                                                                                                                                   |
-| **CT06-1** | *(Description will be added later.)*                                                                                                                         | *(Comment will be added after completing the assignment.)*                                                                                                                                                   |
-| **CT07-1** | *(Description will be added later.)*                                                                                                                         | *(Comment will be added after completing the assignment.)*                                                                                                                                                   |
-| **CT08-1** | *(Description will be added later.)*                                                                                                                         | *(Comment will be added after completing the assignment.)*                                                                                                                                                   |
+В каждой из этих папок будет содержаться:
+
+* Папка `src` (*файлы с моим решеним тз на английском языке*);
+* Папка `src_rus` (*на русском языке*);
+* Файлы `TASK_RUS.md` и `TASK.md` (*русская и английская версии задания*);
+* Скриншот с результатами ревью от проверяющих в школе (*методология Peer-to-Peer*).
+
+Каждый проект содержит свое техническое задание (*ТЗ*) и общую цель, которые помогают достичь поставленных задач. Подробности ТЗ изложены в файлах `TASK_RUS.md` и `TASK.md`, где указаны учебные материалы и пошаговые задачи для реализации. Некоторые задания являются бонусными и необязательными к выполнению.
+
+### Подробнее о проектах:
+
+---
+
+Ниже приведена таблица с кратким описанием каждого задания и моими комментариями к ним.
+
+| Задание:  | Цель:                                                                                                                                                                                                                                                                       | Комментарий:                                                                                                                                                                                                                                                                                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CT00-1** | Колесо карьеры: провести первичный анализ себя и рынка, выписать свои ожидания от работы,<br /> а также критерии для их отбора,наметить цели на 2 и 5 лет. | Не ожидал, что данное задание вызовет трудности, но оказалось, что я не знал, чего хочу.<br />Этот проект помог мне создать предварительный образ моей будущей работы и наметить <br />цели на будущее. |
+| **CT01-1** | Анализ рынка и поиск вакансий от организаций, соответствующих моим ожиданиям.<br />SWOT-анализ, дополнение таблицы из CT00-1.                                                        | Выполнение задания далось мне проще первого. Я более детально изучил рынок труда,<br />что позволило создать road map по веткам к моей цели в Школе 21.                                                                                           |
+| **CT02-1** | *(Описание будет добавлено позже.)*                                                                                                                                                                                                                | *(Комментарий будет добавлен после завершения задания.)*                                                                                                                                                                                                                                                         |
+| **CT03-1** | *(Описание будет добавлено позже.)*                                                                                                                                                                                                                | *(Комментарий будет добавлен после завершения задания.)*                                                                                                                                                                                                                                                         |
+| **CT04-1** | *(Описание будет добавлено позже.)*                                                                                                                                                                                                                | *(Комментарий будет добавлен после завершения задания.)*                                                                                                                                                                                                                                                         |
+| **CT05-1** | *(Описание будет добавлено позже.)*                                                                                                                                                                                                                | *(Комментарий будет добавлен после завершения задания.)*                                                                                                                                                                                                                                                         |
+| **CT06-1** | *(Описание будет добавлено позже.)*                                                                                                                                                                                                                | *(Комментарий будет добавлен после завершения задания.)*                                                                                                                                                                                                                                                         |
+| **CT07-1** | *(Описание будет добавлено позже.)*                                                                                                                                                                                                                | *(Комментарий будет добавлен после завершения задания.)*                                                                                                                                                                                                                                                         |
+| **CT08-1** | *(Описание будет добавлено позже.)*                                                                                                                                                                                                                | *(Комментарий будет добавлен после завершения задания.)*                                                                                                                                                                                                                                                         |
+
+<a href="https://github.com/Akhzariell/Projects" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Глобальный путеводитель</a>
