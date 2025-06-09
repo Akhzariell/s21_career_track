@@ -43,4 +43,7 @@
 | **CT07-1** | *(Описание будет добавлено позже.)*                                                                                                                                                                                                                | *(Комментарий будет добавлен после завершения задания.)*                                                                                                                                                                                                                                                         |
 | **CT08-1** | *(Описание будет добавлено позже.)*                                                                                                                                                                                                                | *(Комментарий будет добавлен после завершения задания.)*                                                                                                                                                                                                                                                         |
 
+
+<a href="https://github.com/Akhzariell/s21_main_page/blob/main/README.md" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Путеводитель по Школе 21</a>
+
 <a href="https://github.com/Akhzariell/Projects" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Глобальный путеводитель</a>
